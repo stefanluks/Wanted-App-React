@@ -1,0 +1,64 @@
+{
+  "personagens": [
+    {
+      "nome": "monkey D. Luffy",
+      "alcunha": "Chapeú de Palha",
+      "recompensa": "1.500.000.000",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Monkey_D._Luffy_Portrait.png"
+    },
+    {
+      "nome": "Ronoroa Zoro",
+      "alcunha": "Caçador de Piratas",
+      "recompensa": "320.000.000",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Roronoa_Zoro_Portrait.png"
+    },
+    {
+      "nome": "Nami",
+      "alcunha": "Gata Ladra",
+      "recompensa": "66.000.000",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/2/26/Nami_Portrait.png"
+    },
+    {
+      "nome": "Usopp",
+      "alcunha": "GOD Usopp",
+      "recompensa": "200.000.000",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/9/97/Usopp_Portrait.png"
+    },
+    {
+      "nome": "Vinsmoke Sanji",
+      "alcunha": "Perna Negra",
+      "recompensa": "330.000.000",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Sanji_Portrait.png"
+    },
+    {
+      "nome": "Tony Tony Chopper",
+      "alcunha": "Amante de algodão doce",
+      "recompensa": "100",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/8/84/Tony_Tony_Chopper_Portrait.png"
+    },
+    {
+      "nome": "Nico Robin",
+      "alcunha": "Amante de algodão doce",
+      "recompensa": "130.000.000",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/9/90/Nico_Robin_Post_Timeskip_Portrait.png"
+    },
+    {
+      "nome": "Franky",
+      "alcunha": "Cyborg",
+      "recompensa": "94.000.000",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Franky_Portrait.png"
+    },
+    {
+      "nome": "Brook",
+      "alcunha": "Soul King",
+      "recompensa": "83.000.000",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/3/37/Brook_Portrait.png"
+    },
+    {
+      "nome": "Jimbe",
+      "alcunha": "cavaleiro do Mar",
+      "recompensa": "438.000.000",
+      "imagem": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Jinbe_Portrait.png"
+    }
+  ]
+}
